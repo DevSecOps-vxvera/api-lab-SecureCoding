@@ -9,9 +9,13 @@ Laboratorio educativo estático en español, preparado para publicar en GitHub P
 - `index.html` — arquitectura, tarjetas de retos, referencias y acceso al ZIP.
 - `styles.css` — diseño responsive futurista.
 - `app.js` — escenarios, actividades, feedback, progreso y puntos.
-- `api-lab-github-pages.zip` — paquete comprimido listo para descargar/transferir.
+- `api-lab-github-pages-v2.zip` — paquete comprimido de esta versión, listo para descargar/transferir.
 
 No requiere backend, build, dependencias ni claves. El progreso se guarda en `localStorage` del navegador utilizado.
+
+## Cambios de la versión 2
+
+Al seleccionar una alternativa, se abre una vista a pantalla completa con pestañas para **Código** y **Recomendación y referencias**. Desde esa vista se puede cambiar entre A/B/C sin volver al reto. Cada explicación incluye un enlace al riesgo correspondiente de OWASP API Top 10:2023 y requisitos/ capítulos pertinentes de ASVS v5.0.0.
 
 ## Publicar en GitHub Pages
 
